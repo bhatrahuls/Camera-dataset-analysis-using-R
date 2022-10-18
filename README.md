@@ -53,8 +53,10 @@ The percentage of missing values in our dataset is 5%.
 
 CONTRIBUTORS:
 
-1. Sai Gruheet N
+1. SAI GRUHEETH N
 
-2. 	Dev Prakash Bisoi
+2. DEV PRAKASH BISOI
 
 3. RAHUL S BHAT	
+
+4. DEV DARSHAN J
