@@ -1,0 +1,5 @@
+library(tidyverse)
+library(ggplot2)
+library(stringr)
+df<- read.csv("C:/Users/Rahul Bhat/Desktop/R project/camera_dataset.csv")
+summary(df)
